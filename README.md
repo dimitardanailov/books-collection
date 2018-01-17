@@ -16,3 +16,7 @@
 ### CSS
 
 - [CSS Secrets, Better Solutions to Everyday Web Design Problems](http://shop.oreilly.com/product/0636920031123.do)
+
+### JavaScript
+
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
