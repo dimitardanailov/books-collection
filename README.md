@@ -20,3 +20,7 @@
 ### JavaScript
 
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+### Hadoop
+
+- [Hadoop: The Definitive Guide](https://www.amazon.com/Hadoop-Definitive-Guide-Tom-White/dp/1449311520)
