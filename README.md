@@ -24,3 +24,7 @@
 ### Hadoop
 
 - [Hadoop: The Definitive Guide](https://www.amazon.com/Hadoop-Definitive-Guide-Tom-White/dp/1449311520)
+
+### D3js
+
+- [](https://www.amazon.de/Interactive-Data-Visualization-Scott-Murray/dp/1449339735)
