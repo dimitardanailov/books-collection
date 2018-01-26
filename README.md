@@ -27,4 +27,5 @@
 
 ### D3js
 
-- [](https://www.amazon.de/Interactive-Data-Visualization-Scott-Murray/dp/1449339735)
+- [Interactive Data Visualization for the Web](https://www.amazon.de/Interactive-Data-Visualization-Scott-Murray/dp/1449339735)
+- [D3 in Depth](http://d3indepth.com/)
