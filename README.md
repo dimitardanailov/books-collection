@@ -29,3 +29,7 @@
 
 - [Interactive Data Visualization for the Web](https://www.amazon.de/Interactive-Data-Visualization-Scott-Murray/dp/1449339735)
 - [D3 in Depth](http://d3indepth.com/)
+
+### Kubernetes
+
+- [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://www.amazon.de/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677)
