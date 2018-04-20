@@ -34,3 +34,7 @@
 ### Kubernetes
 
 - [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://www.amazon.de/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677)
+
+### AWS
+
+- [AWS Certified Solutions Architect Official Study Guide: Associate Exam](https://www.amazon.com/Certified-Solutions-Architect-Official-Study/dp/1119138558/ref=asap_bc?ie=UTF8)
