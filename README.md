@@ -42,3 +42,7 @@
 ### AWS
 
 - [AWS Certified Solutions Architect Official Study Guide: Associate Exam](https://www.amazon.com/Certified-Solutions-Architect-Official-Study/dp/1119138558/ref=asap_bc?ie=UTF8)
+
+### Agile
+
+- [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/gp/product/0135974445?ie=UTF8&tag=lstse01-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0135974445)
