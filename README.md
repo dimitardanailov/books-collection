@@ -46,3 +46,4 @@
 ### Agile
 
 - [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/gp/product/0135974445?ie=UTF8&tag=lstse01-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0135974445)
+- [Peopleware: Productive Projects and Teams](https://www.amazon.co.uk/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)
