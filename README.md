@@ -48,3 +48,7 @@
 - [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/gp/product/0135974445?ie=UTF8&tag=lstse01-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0135974445)
 - [Peopleware: Productive Projects and Teams](https://www.amazon.co.uk/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)
 - [Essential Scrum: A Practical Guide to the Most Popular Agile Process (Addison-Wesley Signature Series (Cohn))](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295/ref=zg_bs_379406011_4?_encoding=UTF8&psc=1&refRID=5XFCPZZ6JQQW2JSWHZ5J)
+
+### Kanban
+
+- [Stop Starting, Start Finishing!](https://www.amazon.com/Stop-Starting-Start-Finishing-Roock/dp/0985305169/ref=sr_1_1?s=books&ie=UTF8&qid=1472588269&sr=1-1&keywords=stop+starting+start+finishing)
