@@ -56,3 +56,7 @@
 
 - [Stop Starting, Start Finishing!](https://www.amazon.com/Stop-Starting-Start-Finishing-Roock/dp/0985305169/ref=sr_1_1?s=books&ie=UTF8&qid=1472588269&sr=1-1&keywords=stop+starting+start+finishing)
 - [Kanban: Successful Evolutionary Change for Your Technology Business](https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402)
+
+### Project management
+
+- [The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
