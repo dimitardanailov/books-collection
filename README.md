@@ -3,6 +3,7 @@
 ### Clean Code :) 
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/0132350882/ref=as_li_tl?ie=UTF8&tag=jasonroell600-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0132350882&linkId=0f6366550007e76e1b7d400fa829f90f)
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/gp/product/0201485672/ref=as_li_tl?ie=UTF8&tag=jasonroell600-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0201485672&linkId=273488cbe8d54d8ad4441197e5326762)
+- [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.de/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)
 
 ### Design patterns
 
