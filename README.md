@@ -9,6 +9,7 @@
 
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.de/Patterns-Elements-Reusable-Object-Oriented-Software/dp/0201633612)
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Implementation Patterns](https://www.amazon.com/Implementation-Patterns-Kent-Beck/dp/0321413091/ref=pd_lpo_sbs_14_img_2?_encoding=UTF8&psc=1&refRID=MBXHNZNG3799SBB1Y7GH)
 
 ### Test Driven Development
 - [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
@@ -65,3 +66,4 @@
 
 ### Coding Interview
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=zg_bs_4016_1?_encoding=UTF8&psc=1&refRID=5XJJHYQ1WER1CWP7R22N)
+
