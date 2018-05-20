@@ -72,3 +72,6 @@
 ### Coding Interview
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=zg_bs_4016_1?_encoding=UTF8&psc=1&refRID=5XJJHYQ1WER1CWP7R22N)
 
+### Vim
+
+- [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
