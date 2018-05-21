@@ -75,3 +75,4 @@
 ### Vim
 
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+- [Learning the vi and Vim Editors, 7th Edition](http://shop.oreilly.com/product/9780596529833.do)
