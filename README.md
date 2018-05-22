@@ -1,7 +1,11 @@
 # books-collection
 
 ### Clean Code :) 
-- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/0132350882/ref=as_li_tl?ie=UTF8&tag=jasonroell600-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0132350882&linkId=0f6366550007e76e1b7d400fa829f90f)
+
+#### [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/0132350882/ref=as_li_tl?ie=UTF8&tag=jasonroell600-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0132350882&linkId=0f6366550007e76e1b7d400fa829f90f)
+
+Even bad code can function. But if code isn t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn t have to be that way. 
+
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/gp/product/0201485672/ref=as_li_tl?ie=UTF8&tag=jasonroell600-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0201485672&linkId=273488cbe8d54d8ad4441197e5326762)
 - [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.de/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)
 - [Working Effectively with Legacy Code](https://books.google.bg/books/about/Working_Effectively_with_Legacy_Code.html?id=CQlRAAAAMAAJ&redir_esc=y&hl=en)
