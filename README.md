@@ -6,12 +6,15 @@
 
 Even bad code can function. But if code isn t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn t have to be that way. 
 
-- [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/gp/product/0201485672/ref=as_li_tl?ie=UTF8&tag=jasonroell600-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0201485672&linkId=273488cbe8d54d8ad4441197e5326762)
+#### [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/gp/product/0201485672/ref=as_li_tl?ie=UTF8&tag=jasonroell600-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0201485672&linkId=273488cbe8d54d8ad4441197e5326762)
 
 As the application of object technology--particularly the Java programming language--has become commonplace, a new problem has emerged to confront the software development community. Significant numbers of poorly designed programs have been created by less-experienced developers, resulting in applications that are inefficient and hard to maintain and extend. Increasingly, software system professionals are discovering just how difficult it is to work with these inherited, non-optimal applications. 
 
 
-- [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.de/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)
+#### [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.de/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)
+
+Despite advanced tools and methodologies, software projects continue to fail. Why? Too many organizations still view software development as just another production line. Too many developers feel that way, too—and they behave accordingly.
+
 - [Working Effectively with Legacy Code](https://books.google.bg/books/about/Working_Effectively_with_Legacy_Code.html?id=CQlRAAAAMAAJ&redir_esc=y&hl=en)
 - [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/gp/product/0321503627/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321503627&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 
