@@ -16,6 +16,9 @@ As the application of object technology--particularly the Java programming langu
 Despite advanced tools and methodologies, software projects continue to fail. Why? Too many organizations still view software development as just another production line. Too many developers feel that way, too—and they behave accordingly.
 
 - [Working Effectively with Legacy Code](https://books.google.bg/books/about/Working_Effectively_with_Legacy_Code.html?id=CQlRAAAAMAAJ&redir_esc=y&hl=en)
+
+What is legacy code? I've used the term without defining it. Let's look at the strict definition: Legacy code is code that we've gotten from someone else. Maybe our company acquired code from another company; maybe people on the original team moved on to other projects. Legacy code is somebody else's code. But in programmer-speak, the term means much more than that. The termlegacy codehas taken on more shades of meaning and more weight over time.
+
 - [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/gp/product/0321503627/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321503627&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 
 ### Design patterns
