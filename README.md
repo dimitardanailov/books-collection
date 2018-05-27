@@ -29,7 +29,10 @@ What is legacy code? I've used the term without defining it. Let's look at the s
 
 ### Design patterns
 
-- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.de/Patterns-Elements-Reusable-Object-Oriented-Software/dp/0201633612)
+#### [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.de/Patterns-Elements-Reusable-Object-Oriented-Software/dp/0201633612)
+
+Capturing a wealth of experience about the design of object-oriented software, four top-notch designers present a catalog of simple and succinct solutions to commonly occurring design problems. Previously undocumented, these 23 patterns allow designers to create more flexible, elegant, and ultimately reusable designs without having to rediscover the design solutions themselves.
+
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Implementation Patterns](https://www.amazon.com/Implementation-Patterns-Kent-Beck/dp/0321413091/ref=pd_lpo_sbs_14_img_2?_encoding=UTF8&psc=1&refRID=MBXHNZNG3799SBB1Y7GH)
 
