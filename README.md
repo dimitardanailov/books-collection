@@ -39,7 +39,11 @@ Design patterns are reusable solutions to commonly occurring problems in softwar
 
 One reason for this is that they help us build upon the combined experience of many developers that came before us and ensure we structure our code in an optimized way, meeting the needs of problems we're attempting to solve.
 
-- [Implementation Patterns](https://www.amazon.com/Implementation-Patterns-Kent-Beck/dp/0321413091/ref=pd_lpo_sbs_14_img_2?_encoding=UTF8&psc=1&refRID=MBXHNZNG3799SBB1Y7GH)
+#### [Implementation Patterns](https://www.amazon.com/Implementation-Patterns-Kent-Beck/dp/0321413091/ref=pd_lpo_sbs_14_img_2?_encoding=UTF8&psc=1&refRID=MBXHNZNG3799SBB1Y7GH)
+
+“Kent is a master at creating code that communicates well, is easy to understand, and is a pleasure to read. Every chapter of this book contains excellent explanations and insights into the smaller but important decisions we continuously have to make when creating quality code and classes.”
+
+–Erich Gamma, IBM Distinguished Engineer 
 
 ### Test Driven Development
 - [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
