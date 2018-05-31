@@ -50,6 +50,8 @@ One reason for this is that they help us build upon the combined experience of m
 
 #### [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
+Follows two TDD projects from start to finish, illustrating techniques programmers can use to increase the quality of their work. The examples are followed by references to the featured TDD patterns and refactorings. This book emphasises on agile methods and fast development strategies.
+
 #### [The Art of Unit Testing: with Examples in .NET](https://www.amazon.com/gp/product/1933988274/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1933988274&SubscriptionId=1MGPYB6YW3HWK55XCGG2) 
 
 ### Microservices
