@@ -10,7 +10,6 @@ Even bad code can function. But if code isn t clean, it can bring a development 
 
 As the application of object technology--particularly the Java programming language--has become commonplace, a new problem has emerged to confront the software development community. Significant numbers of poorly designed programs have been created by less-experienced developers, resulting in applications that are inefficient and hard to maintain and extend. Increasingly, software system professionals are discovering just how difficult it is to work with these inherited, non-optimal applications. 
 
-
 #### [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.de/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)
 
 Despite advanced tools and methodologies, software projects continue to fail. Why? Too many organizations still view software development as just another production line. Too many developers feel that way, too—and they behave accordingly.
@@ -107,6 +106,7 @@ Follows two TDD projects from start to finish, illustrating techniques programme
 #### [Peopleware: Productive Projects and Teams](https://www.amazon.co.uk/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)
 
 ### Coding Interview
+
 #### [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=zg_bs_4016_1?_encoding=UTF8&psc=1&refRID=5XJJHYQ1WER1CWP7R22N)
 
 ### Vim
@@ -117,3 +117,9 @@ Follows two TDD projects from start to finish, illustrating techniques programme
 ### Android
 
 ### Blockchain
+
+- [Blockchain: The Beginners Guide to Understanding the Technology Behind Bitcoin & Cryptocurrency (The Future of Money)](https://www.amazon.com/Blockchain-Beginners-Understanding-Technology-Cryptocurrency-ebook/dp/B074V6FPQM)
+
+"What the Internet did for communications, Blockchain will do for trusted transactions".- Ginni Rometty, IBM CEO
+
+### IoT
