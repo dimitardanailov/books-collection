@@ -56,6 +56,9 @@ Follows two TDD projects from start to finish, illustrating techniques programme
 ### Microservices
 
 #### [Building Microservices](http://shop.oreilly.com/product/0636920033158.do)
+
+Distributed systems have become more fine-grained in the past 10 years, shifting from code-heavy monolithic applications to smaller, self-contained microservices. But developing these systems brings its own set of headaches. With lots of examples and practical advice, this book takes a holistic view of the topics that system architects and administrators must consider when building, managing, and evolving microservice architectures. 
+
 #### [Building Microservices with ASP.NET Core: Develop, Test, and Deploy Cross-Platform Services in the Cloud](https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform-ebook/dp/B0758YB73N/ref=mt_kindle?_encoding=UTF8&me)
 
 ### Python
