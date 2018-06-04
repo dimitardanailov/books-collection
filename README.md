@@ -64,6 +64,9 @@ Distributed systems have become more fine-grained in the past 10 years, shifting
 ### Python
 
 #### [Learning Python, 5th Edition](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730/ref=sr_1_5?ie=UTF8&qid=1515688063&sr=8-5&keywords=python)
+
+Get a comprehensive, in-depth introduction to the core Python language with this hands-on book. Based on author Mark Lutz’s popular training course, this updated fifth edition will help you quickly write efficient, high-quality code with Python. It’s an ideal way to begin, whether you’re new to programming or a professional developer versed in other languages.
+
 #### [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?ie=UTF8&qid=1499089735&sr=8-1&keywords=Fluent+Python%3A+Clear%2C+Concise%2C+and+Effective+Programming)
 
 ### CSS
