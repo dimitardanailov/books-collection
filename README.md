@@ -75,6 +75,10 @@ Get a comprehensive, in-depth introduction to the core Python language with this
 
 #### [CSS Secrets, Better Solutions to Everyday Web Design Problems](http://shop.oreilly.com/product/0636920031123.do)
 
+In this practical guide, CSS expert Lea Verou provides 47 undocumented techniques and tips to help intermediate-to advanced CSS developers devise elegant solutions to a wide range of everyday web design problems.
+
+Rather than focus on design, CSS Secrets shows you how to solve problems with code. You'll learn how to apply Lea's analytical approach to practically every CSS problem you face to attain DRY, maintainable, flexible, lightweight, and standards-compliant results.
+
 ### JavaScript
 
 #### [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
