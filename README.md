@@ -91,6 +91,9 @@ Rather than focus on design, CSS Secrets shows you how to solve problems with co
 
 #### [Interactive Data Visualization for the Web](https://www.amazon.de/Interactive-Data-Visualization-Scott-Murray/dp/1449339735)
 #### [D3 in Depth](http://d3indepth.com/)
+#### [Interactive Data Visualization for the Web: An Introduction to Designing with D3](https://gist.github.com/dimitardanailov/f23ed9b8b1393346ef2c3626d01eb908)
+#### - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/gp/product/1119002257?ie=UTF8&creativeASIN=1119002257&linkCode=xm2&tag=storytellingwithdata-20)
+
 
 ### Kubernetes
 
