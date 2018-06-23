@@ -71,6 +71,8 @@ Get a comprehensive, in-depth introduction to the core Python language with this
 
 #### [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?ie=UTF8&qid=1499089735&sr=8-1&keywords=Fluent+Python%3A+Clear%2C+Concise%2C+and+Effective+Programming)
 
+Python’s simplicity lets you become productive quickly, but this often means you aren’t using everything it has to offer. With this hands-on guide, you’ll learn how to write effective, idiomatic Python code by leveraging its best—and possibly most neglected—features. Author Luciano Ramalho takes you through Python’s core language features and libraries, and shows you how to make your code shorter, faster, and more readable at the same time.
+
 ### CSS
 
 #### [CSS Secrets, Better Solutions to Everyday Web Design Problems](http://shop.oreilly.com/product/0636920031123.do)
