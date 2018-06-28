@@ -85,6 +85,10 @@ Rather than focus on design, CSS Secrets shows you how to solve problems with co
 
 #### [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
+Design patterns are reusable solutions to commonly occurring problems in software design. They are both exciting and a fascinating topic to explore in any programming language.
+
+One reason for this is that they help us build upon the combined experience of many developers that came before us and ensure we structure our code in an optimized way, meeting the needs of problems we're attempting to solve.
+
 ### Hadoop
 
 #### [Hadoop: The Definitive Guide](https://www.amazon.com/Hadoop-Definitive-Guide-Tom-White/dp/1449311520)
