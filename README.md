@@ -109,6 +109,8 @@ One reason for this is that they help us build upon the combined experience of m
 
 #### [AWS Certified Solutions Architect Official Study Guide: Associate Exam](https://www.amazon.com/Certified-Solutions-Architect-Official-Study/dp/1119138558/ref=asap_bc?ie=UTF8)
 
+This is your opportunity to take the next step in your career by expanding and validating your skills on the AWS cloud.  AWS has been the frontrunner in cloud computing products and services, and the AWS Certified Solutions Architect Official Study Guide for the Associate exam will get you fully prepared through expert content, and real-world knowledge, key exam essentials, chapter review questions, access to Sybex’s interactive online learning environment, and much more.
+
 ### Agile
 
 #### [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/gp/product/0135974445?ie=UTF8&tag=lstse01-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0135974445)
