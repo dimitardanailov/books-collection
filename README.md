@@ -63,6 +63,10 @@ Distributed systems have become more fine-grained in the past 10 years, shifting
 
 At a time when nearly every vertical, regardless of domain, seems to need software running in the cloud to make money, microservices provide the agility and drastically reduced time to market you require. This hands-on guide shows you how to create, test, compile, and deploy microservices, using the ASP.NET Core free and open-source framework. Along the way, you’ll pick up good, practical habits for building powerful and robust services.
 
+### [Building Evolutionary Architectures](http://evolutionaryarchitecture.com/)
+
+For a variety of reasons, parts of software systems resist change, becoming more brittle and intractable over time. However, the world we inhabit has exactly the opposite characteristic: the software development ecosystem exists in a state of dynamic equilibrium.
+
 ### Python
 
 #### [Learning Python, 5th Edition](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730/ref=sr_1_5?ie=UTF8&qid=1515688063&sr=8-5&keywords=python)
