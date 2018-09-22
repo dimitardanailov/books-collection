@@ -97,6 +97,8 @@ One reason for this is that they help us build upon the combined experience of m
 
 #### [Hadoop: The Definitive Guide](https://www.amazon.com/Hadoop-Definitive-Guide-Tom-White/dp/1449311520)
 
+Ready to unlock the power of your data? With this comprehensive guide, you’ll learn how to build and maintain reliable, scalable, distributed systems with Apache Hadoop. This book is ideal for programmers looking to analyze datasets of any size, and for administrators who want to set up and run Hadoop clusters.
+
 ### D3js
 
 #### [Interactive Data Visualization for the Web](https://www.amazon.de/Interactive-Data-Visualization-Scott-Murray/dp/1449339735)
