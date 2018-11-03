@@ -127,7 +127,10 @@ This is your opportunity to take the next step in your career by expanding and v
 ### Kanban
 
 #### [Stop Starting, Start Finishing!](https://www.amazon.com/Stop-Starting-Start-Finishing-Roock/dp/0985305169/ref=sr_1_1?s=books&ie=UTF8&qid=1472588269&sr=1-1&keywords=stop+starting+start+finishing)
+
 #### [Kanban: Successful Evolutionary Change for Your Technology Business](https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402)
+
+Kanban is becoming a popular way to visualize and limit work-in-progress in software development and information technology work. Teams around the world are adding kanban around their existing processes to catalyze cultural change and deliver better business agility. This book answers the questions: What is Kanban? Why would I want to use Kanban? How do I go about implementing Kanban? How do I recognize improvement opportunities and what should I do about them?
 
 ### Project management
 
